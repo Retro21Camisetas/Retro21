@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  .fondo {
+    background-image: url(../img/fondo.png);
+  }
+
+  .fondoNBA {
+    background-image: url(../img/fondo-NBA.png);
+  }
+
+  .fondo-argentina {
+    background-image: url(../img/fondo-argentina.PNG);
+  }
+
+  .fondo-river {
+    background-image: url(../img/fondo-river-2.PNG);
+  }
+
+  .fondo-boca {
+    background-image: url(../img/fondo-boca.PNG);
+  }
+
+
+  .padding {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .tarjeta-background {
+    background-color: black;
+  }
+
+  .tarjeta {
+    padding: 0.5rem;
+  }
+
+  .letra {
+    color: black;
+  }
+
+  .centrar {
+    text-align: center;
+  }
+
+  .glass{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
