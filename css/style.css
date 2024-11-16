@@ -5,6 +5,7 @@
   }
 
 
+
   .fondo {
     background-image: url(../img/fondo.png);
   }
@@ -27,7 +28,7 @@
 
 
   .padding {
-    padding-top: 2rem;
+    padding-top: 3rem;
     padding-bottom: 2rem;
   }
 
